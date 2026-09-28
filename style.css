@@ -1,0 +1,40 @@
+.desktopvid {
+  margin: 5% 15% 3% 15%;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  column-gap: 15px;
+}
+
+.header-nav {
+  display: flex;
+  justify-content: center;
+  column-gap: 3px;
+}
+
+.logo-circle {
+  background: black;
+  height: 50px;
+  width: 50px;
+  border-radius: 100%;
+}
+
+.logo-ractangle {
+  background: black;
+  height: 30px;
+  width: 80px;
+}
+
+.nav-ractangle {
+  background: black;
+  height: 30px;
+  width: 80px;
+}
